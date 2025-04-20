@@ -1,4 +1,4 @@
-# 🎓 Shihab's Projects Portfolio
+# 🎓 Shehab's Projects Portfolio
 
 Welcome!  
 I'm Shihab, an Computer and Control Systerm Engineering student with a passion for web development, embedded systems, and creative problem-solving.
