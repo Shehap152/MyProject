@@ -1,7 +1,7 @@
 # 🎓 Shehab's Projects Portfolio
 
 Welcome!  
-I'm Shihab, an Computer and Control Systerm Engineering student with a passion for web development, embedded systems, and creative problem-solving.
+I'm Shehab, an Computer and Control Systerm Engineering student with a passion for web development, embedded systems, and creative problem-solving.
 
 In this repository, you'll find links to some of the projects I've built during my studies and personal learning journey.
 
